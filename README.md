@@ -9,6 +9,7 @@
 | 2020 年 11 月 | Jina AI | Jina | 肖涵 | A轮 | 3000 万美元 | Canaan Partners、Mango Capital、GGV 纪源资本、SAP.iO Fund、云启资本 |
 | 2021 年 11 月 | Alluxio, Inc. | Alluxio | 李浩源 | C 轮 | 5000 万美元 | 高瓴创投、Andreessen Horowitz、七海资本、火山石资本、华泰创新 |
 | 2021 年 10 月 | StreamNative | Pulsar | 郭斯杰 | A 轮 | 2300万美元 | Prosperity7 Ventures、华泰创新、源码资本、红杉中国 |
+| 2021 年 8 月 | 澜舟科技 | [Mengzi](https://github.com/Langboat/Mengzi) | 周明 | 天使轮 | 未披露 | 创新工场 |
 | 2021 年 8 月 | 偶数科技 | HAWQ | 常雷 | B+轮 | 近 2 亿元人民币 | 某科技巨头、红杉资本、红点中国 |
 | 2021 年 8 月 | Datafuse Labs | Datafuse | 张雁飞 | 天使轮 | 数百万美元 | 高瓴资本、华创资本、九合创投 |
 | 2021 年 8 月 | KodeRover | Zadig | 李倩 | Pre-A轮 | 数千万人民币 | 经纬中国、盈动资本 |
