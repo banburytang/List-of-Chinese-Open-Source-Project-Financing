@@ -19,6 +19,7 @@
 | 2021 年 4 月 | 太极图形 | [Taichi](https://github.com/taichi-dev/taichi) | 胡渊鸣 | 天使轮 | 未披露 | 红杉中国种子基金 |
 | 2021 年 4 月 | 麒麟软件 | 优麒麟 | 谌志华 | B 轮 | 未披露 | 上海翎贲、君度投资、燕园创投、旭源资本 |
 | 2021 年 4 月 | 上海硅智科技有限公司 | [Apache Kylin](https://github.com/apache/kylin) | 韩卿 | D 轮 | 7000 万美元 | 顺为资本、红点中国等 |
+| 2021 年 3 月 | 鼎石科技 | [StarRocks](https://github.com/StarRocks/starrocks) | 李海磊、叶谦、赵纯 | Pre-A 轮 | 未披露 | Atypical Ventures |
 | 2021 年 2 月 | 一流科技 | [OneFlow](https://github.com/Oneflow-Inc/oneflow) | 袁进辉 | A 轮 | 5000 万人民币 | 高瓴资本 |
 | 2021 年 1 月 | 北京易捷思达科技 | EasyStack | 陈喜伦 | E 轮 | 未披露 | 京东数科 |
 | 2020 年 11 月 | 平凯星辰（北京）PingCAP | [TiDB](https://github.com/pingcap/tidb) | 刘奇、黄东旭 | D 轮 | 2.7 亿美元 | GGV 纪源资本、Access Technology Ventures、晨曦投资、时代资本、 五源资本等 |
