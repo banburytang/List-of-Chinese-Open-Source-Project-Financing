@@ -6,6 +6,7 @@
 
 | 时间 | 组织（公司/基金会/个人） | 核心开源项目 | 作者/创始人 | 融资轮次 | 融资金额 | 投资方 | 技术领域 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 2022 年 2 月 | 澜舟科技 | Mengzi [[GitHub](https://github.com/Langboat/Mengzi)] | 周明 | Pre-A 轮 | 近亿元人民币 | 联想创投、斯道资本、创新工场 | 人工智能 |
 | 2022 年 2 月 | 太极图形 | Taichi [[GitHub](https://github.com/taichi-dev/taichi)]、[[GitCode](https://gitcode.net/mirrors/taichi-dev/taichi)] | 胡渊鸣、匡冶 | A 轮 | 5000 万 | 源码资本、GGV 纪源资本、BAI 资本、红杉中国 | 计算机视觉、编程语言 |
 | 2022 年 1 月 | SphereEx | [Apache ShardingSphere](https://github.com/apache/shardingsphere) | 张亮、潘娟 | Pre-A轮 | 近千万美元 | 嘉御资本领投，红杉中国种子基金、初心资本、指数创投跟投，指数资本担任独家财务顾问 | 数据库 |
 | 2021 年 11 月 | Jina AI | Jina [[GitHub](https://github.com/jina-ai/jina)]、[[GitCode](https://gitcode.net/mirrors/jina-ai/jina)] | 肖涵 | A 轮 | 3000 万美元 | Canaan Partners、Mango Capital、GGV 纪源资本、SAP.iO Fund、云启资本 | 人工智能 |
