@@ -6,26 +6,27 @@
 
 | 时间 | 组织（公司/基金会/个人） | 核心开源项目 | 作者/创始人 | 融资轮次 | 融资金额 | 投资方 | 技术领域 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 2022 年 6 月 | 天谋科技 Timecho | [Apache IoTDB](https://github.com/apache/iotdb) | 乔嘉林、郑鹏程 | 天使轮 | 近亿元人民币 | 红杉中国、考拉基金、戈壁创投、云智慧 | 数据库 |
 | 2022 年 2 月 | 澜舟科技 | Mengzi [[GitHub](https://github.com/Langboat/Mengzi)] | 周明 | Pre-A 轮 | 近亿元人民币 | 联想创投、斯道资本、创新工场 | 人工智能 |
 | 2022 年 2 月 | 太极图形 | Taichi [[GitHub](https://github.com/taichi-dev/taichi)]、[[GitCode](https://gitcode.net/mirrors/taichi-dev/taichi)] | 胡渊鸣、匡冶 | A 轮 | 5000 万 | 源码资本、GGV 纪源资本、BAI 资本、红杉中国 | 计算机视觉、编程语言 |
 | 2022 年 1 月 | SphereEx | [Apache ShardingSphere](https://github.com/apache/shardingsphere) | 张亮、潘娟 | Pre-A轮 | 近千万美元 | 嘉御资本领投，红杉中国种子基金、初心资本、指数创投跟投，指数资本担任独家财务顾问 | 数据库 |
 | 2021 年 11 月 | Jina AI | Jina [[GitHub](https://github.com/jina-ai/jina)]、[[GitCode](https://gitcode.net/mirrors/jina-ai/jina)] | 肖涵 | A 轮 | 3000 万美元 | Canaan Partners、Mango Capital、GGV 纪源资本、SAP.iO Fund、云启资本 | 人工智能 |
 | 2021 年 11 月 | 星汉未来 | BridgX [[GitHub](https://github.com/galaxy-future/BridgX)]| 刘道儒 | Pre-A 轮 | 未披露 | 经纬创投 | 云原生 |
-| 2021 年 11 月 | Alluxio, Inc. | Alluxio [[GitHub](https://github.com/Alluxio/alluxio)]| 李浩源 | C 轮 | 5000 万美元 | 高瓴创投、Andreessen Horowitz、七海资本、火山石资本、华泰创新 |
+| 2021 年 11 月 | Alluxio, Inc. | Alluxio [[GitHub](https://github.com/Alluxio/alluxio)]| 李浩源 | C 轮 | 5000 万美元 | 高瓴创投、Andreessen Horowitz、七海资本、火山石资本、华泰创新 |大数据|
 | 2021 年 10 月 | StreamNative | Apache Pulsar [[GitHub](https://github.com/apache/pulsar)]、[[GitCode](https://gitcode.net/apache/pulsar)] | 郭斯杰 | A 轮 | 2300万美元 | Prosperity7 Ventures、华泰创新、源码资本、红杉中国 | 云原生、中间件 |
-| 2021 年 10 月 | 矩阵起源（Matrix Origin） | MatrixOne [[GitHub](https://github.com/matrixorigin/matrixone)] | 王龙 | 战略融资 | 数千万美元 | 钟鼎资本、五源资本、险峰K2VC、基石资本 |
+| 2021 年 10 月 | 矩阵起源（Matrix Origin） | MatrixOne [[GitHub](https://github.com/matrixorigin/matrixone)] | 王龙 | 战略融资 | 数千万美元 | 钟鼎资本、五源资本、险峰K2VC、基石资本 |数据库|
 | 2021 年 9 月 | 端点Terminus | Erda [[GitHub](https://github.com/erda-project/erda)]、[[GitCode](https://gitcode.net/mirrors/erda-project/erda)] | 赵沣伟 | B 轮 | 6 亿人民币 | 华平投资、红杉中国、阿里云、中金佳成 | 云原生 |
 | 2021 年 8 月 | 澜舟科技 | Mengzi [[GitHub](https://github.com/Langboat/Mengzi)] | 周明 | 天使轮 | 未披露 | 创新工场 | 人工智能 |
 | 2021 年 8 月 | 偶数科技 | Apache HAWQ [[GitHub](https://github.com/apache/hawq)] | 常雷 | B+轮 | 近 2 亿元人民币 | 某科技巨头、红杉资本、红点中国 | 大数据 |
-| 2021 年 8 月 | Datafuse Labs | Databend [[GitHub](https://github.com/datafuselabs/databend/)] | 张雁飞 | 天使轮 | 数百万美元 | 高瓴资本、华创资本、九合创投 | 
+| 2021 年 8 月 | Datafuse Labs | Databend [[GitHub](https://github.com/datafuselabs/databend/)] | 张雁飞 | 天使轮 | 数百万美元 | 高瓴资本、华创资本、九合创投 | 数据库|
 | 2021 年 8 月 | KodeRover | Zadig [[GitHub](https://github.com/koderover/zadig)]、[[GitCode](https://gitcode.net/koderover/zadig)] | 李倩 | Pre-A轮 | 数千万人民币 | 经纬中国、盈动资本 | 云原生 |
 | 2021 年 7 月 | 云智慧 | OMP-运维管理平台[[GitHub](https://github.com/CloudWise-OpenSource/OMP)] | 殷晋 | E 轮 | 1.5 亿美元 | 红杉中国、波士顿投资、FutureX Capital天际资本、CPE源峰、ASG、SIG海纳亚洲创投基金、链兴资本、银盛泰资本、敦鸿资产 | 运维 |
 | 2021 年 7 月 | 平凯星辰（北京）PingCAP | TiDB [[GitHub](https://github.com/pingcap/tidb)]、[[GitCode](https://gitcode.net/mirrors/pingcap/tidb)] | 刘奇、黄东旭、崔秋 | E 轮 | 估值 30 亿美元 | 红杉中国、明势资本、新加坡政府投资公司（GIC）、五源资本、云启资本、GGV纪源资本、BAI资本 | 数据库 |
 | 2021 年 7 月 | 星汉未来 | BridgX [[GitHub](https://github.com/galaxy-future/BridgX)] | 刘道儒 | 天使轮 | 数百万美元 | 明势资本、初心资本 | 云原生 |
-| 2021 年 6 月 | 深圳支流科技 | Apache APISIX [[GitHub](https://github.com/apache/apisix)]、[[GitCode](https://gitcode.net/mirrors/apache/apisix)] | 温铭 | A+轮 | 数百万美元 | 经纬中国、顺为资本、真格基金 | 云原生 |
-| 2021 年 6 月 | 矩阵起源（Matrix Origin） | MatrixOne [[GitHub](https://github.com/matrixorigin/matrixone)] | 王龙 | 天使轮 | 千万级美元 | 五源资本、险峰K2VC、源来资本、微光创投 | 大数据 |
+| 2021 年 6 月 | 深圳支流科技 | Apache APISIX [[GitHub](https://github.com/apache/apisix)]、[[GitCode](https://gitcode.net/mirrors/apache/apisix)] | 温铭、王院生 | A+轮 | 数百万美元 | 经纬中国、顺为资本、真格基金 | 云原生 |
+| 2021 年 6 月 | 矩阵起源（Matrix Origin） | MatrixOne [[GitHub](https://github.com/matrixorigin/matrixone)] | 王龙 | 天使轮 | 千万级美元 | 五源资本、险峰K2VC、源来资本、微光创投 | 数据库 |
 | 2021 年 5 月 | 涛思数据 | TDengine [[GitHub](https://github.com/taosdata/TDengine)]、[[GitCode](https://gitcode.net/taosdata/tdengine)] | 陶建辉 | B 轮 | 4700 万美元 | 经纬中国（领投）、GGV 纪源资本、红杉资本中国、指数资本 | 数据库、物联网 |
-| 2021 年 5 月 | SphereEx | Apache ShardingSphere [[GitHub](https://github.com/apache/shardingsphere)]、[[GitCode](https://gitcode.net/mirrors/apache/incubator-shardingsphere)] | 张亮 | 天使轮 | 数百万美元 | 红杉中国、初心资本 | 数据库 |
+| 2021 年 5 月 | SphereEx | Apache ShardingSphere [[GitHub](https://github.com/apache/shardingsphere)]、[[GitCode](https://gitcode.net/mirrors/apache/incubator-shardingsphere)] | 张亮 、潘娟| 天使轮 | 数百万美元 | 红杉中国、初心资本 | 数据库 |
 | 2021 年 5 月 | 九章云极DataCanvas | DingoDB [[GitHub](https://github.com/dingodb/dingo)] | 方磊、尚明栋 | C 轮 | 3 亿人民币 | 赛富投资基金、尚珹投资、领沨资本、君紫资本、珂玺资本、易华录投资 | 数据库 |
 | 2021 年 4 月 | 太极图形 | Taichi [[GitHub](https://github.com/taichi-dev/taichi)]、[[GitCode](https://gitcode.net/mirrors/taichi-dev/taichi)] | 胡渊鸣、匡冶 | 天使轮 | 未披露 | 红杉中国种子基金 | 计算机视觉、编程语言 |
 | 2021 年 4 月 | 麒麟软件 | 优麒麟 | 谌志华 | B 轮 | 未披露 | 上海翎贲、君度投资、燕园创投、旭源资本 | 操作系统 |
@@ -60,6 +61,7 @@
 
 | 时间 | 组织（公司/基金会/个人） | 创始人/核心负责人 | 最新融资轮次 | 融资金额 | 最新投资方 | 开源贡献 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 2022 年 4 月 | 极狐（GitLab） | 陈冉 | A 轮 | 数亿元人民币 | 淡马锡、Alpha Prime、纪源资本、上海人工智能产业基金、诺基亚成长基金、泰康人寿、干杯基金、联想创投 |
 | 2021 年 9 月 | XSKY星辰天合 | 胥昕 | E 轮 | 7.1亿元人民币 | 博裕投资领投，君联资本、中金甲子、博华资本、昆仑资本、恒生电子、苏州毅商等跟投，原股东北极光、启明创投等亦参与跟投 | 以 Ceph 项目为基础，打造下一代企业级存储。|
 
 ## 三、欢迎与我联系
