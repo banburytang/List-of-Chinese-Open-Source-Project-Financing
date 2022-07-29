@@ -6,10 +6,12 @@
 
 | 时间 | 组织（公司/基金会/个人） | 核心开源项目 | 作者/创始人 | 融资轮次 | 融资金额 | 投资方 | 技术领域 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 2022 年 7 月 | 白鲸开源 | [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler)、[Apache SeaTunnel](https://github.com/apache/incubator-seatunnel) | 郭炜、代立冬 | 天使轮 | 数千万人民币 | 凯泰资本、蓝驰创投 | 云原生、大数据 |
 | 2022 年 6 月 | 天谋科技 Timecho | [Apache IoTDB](https://github.com/apache/iotdb) | 乔嘉林、郑鹏程 | 天使轮 | 近亿元人民币 | 红杉中国、考拉基金、戈壁创投、云智慧 | 数据库 |
 | 2022 年 2 月 | 澜舟科技 | Mengzi [[GitHub](https://github.com/Langboat/Mengzi)] | 周明 | Pre-A 轮 | 近亿元人民币 | 联想创投、斯道资本、创新工场 | 人工智能 |
 | 2022 年 2 月 | 太极图形 | Taichi [[GitHub](https://github.com/taichi-dev/taichi)]、[[GitCode](https://gitcode.net/mirrors/taichi-dev/taichi)] | 胡渊鸣、匡冶 | A 轮 | 5000 万 | 源码资本、GGV 纪源资本、BAI 资本、红杉中国 | 计算机视觉、编程语言 |
 | 2022 年 1 月 | SphereEx | [Apache ShardingSphere](https://github.com/apache/shardingsphere) | 张亮、潘娟 | Pre-A轮 | 近千万美元 | 嘉御资本领投，红杉中国种子基金、初心资本、指数创投跟投，指数资本担任独家财务顾问 | 数据库 |
+| 2022 年 1 月 | ILLA 艾拉云科 | [ILLA Builder](https://github.com/illa-family/illa-builder) | 陈龙博 | 天使轮 | 数百万美元 | 高瓴资本、源码资本 | 低代码 |
 | 2021 年 11 月 | Jina AI | Jina [[GitHub](https://github.com/jina-ai/jina)]、[[GitCode](https://gitcode.net/mirrors/jina-ai/jina)] | 肖涵 | A 轮 | 3000 万美元 | Canaan Partners、Mango Capital、GGV 纪源资本、SAP.iO Fund、云启资本 | 人工智能 |
 | 2021 年 11 月 | 星汉未来 | BridgX [[GitHub](https://github.com/galaxy-future/BridgX)]| 刘道儒 | Pre-A 轮 | 未披露 | 经纬创投 | 云原生 |
 | 2021 年 11 月 | Alluxio, Inc. | Alluxio [[GitHub](https://github.com/Alluxio/alluxio)]| 李浩源 | C 轮 | 5000 万美元 | 高瓴创投、Andreessen Horowitz、七海资本、火山石资本、华泰创新 |大数据|
