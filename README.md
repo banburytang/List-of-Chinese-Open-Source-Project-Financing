@@ -6,6 +6,8 @@
 
 | 时间 | 组织（公司/基金会/个人） | 核心开源项目 | 作者/创始人 | 融资轮次 | 融资金额 | 投资方 | 技术领域 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 2022 年 9 月 | 悦数科技 | NebulaGraph [[GitHub](https://github.com/vesoft-inc/nebula)]、[[GitCode](https://gitcode.net/mirrors/vesoft-inc/nebula)] | 叶小萌 | A轮 | 数千万美元 | 时代资本(Jeneration Capital)领投，经纬创投、红点中国、源码资本全部继续加码；华兴资本担任此轮融资独家财务顾问 | 数据库 |
+| 2022 年 8 月 | Zilliz | Milvus [[GitHub](https://github.com/milvus-io/milvus)]、[[GitCode](https://gitcode.net/mirrors/milvus-io/milvus)] | 谢超（星爵） | B+轮 | 6000 万美元 | Prosperity7 Ventures、Pavilion Capital、高瓴创投、五源资本和云启资本 | 人工智能、数据库 |
 | 2022 年 7 月 | 白鲸开源 | [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler)、[Apache SeaTunnel](https://github.com/apache/incubator-seatunnel) | 郭炜、代立冬 | 天使轮 | 数千万人民币 | 凯泰资本、蓝驰创投 | 云原生、大数据 |
 | 2022 年 6 月 | 天谋科技 Timecho | [Apache IoTDB](https://github.com/apache/iotdb) | 乔嘉林、郑鹏程 | 天使轮 | 近亿元人民币 | 红杉中国、考拉基金、戈壁创投、云智慧 | 数据库 |
 | 2022 年 2 月 | 澜舟科技 | Mengzi [[GitHub](https://github.com/Langboat/Mengzi)] | 周明 | Pre-A 轮 | 近亿元人民币 | 联想创投、斯道资本、创新工场 | 人工智能 |
@@ -45,7 +47,7 @@
 | 2020 年 12 月 | EMQ（杭州映云科技有限公司） | EMQ X Broker [[GitHub](https://github.com/emqx/emqx)]、[[GitCode](https://gitcode.net/mirrors/emqx/emqx)] | 李枫 | B 轮 | 1.5 亿人民币 | 高瓴创投、GGV纪源资本、嘉御资本、东方富海 | 云原生、物联网 |
 | 2020 年 11 月 | 平凯星辰（北京）PingCAP | TiDB [[GitHub](https://github.com/pingcap/tidb)]、[[GitCode](https://gitcode.net/mirrors/pingcap/tidb)] | 刘奇、黄东旭、崔秋 | D 轮 | 2.7 亿美元 | GGV纪源资本、Access Technology Ventures、晨曦投资、时代资本、五源资本、BAI资本、Coatue Management、FutureX Capital天际资本、昆仑资本、挚信资本、经纬创投、云启资本 | 数据库 |
 | 2020 年 11 月 | 欧若数网 | NebulaGraph [[GitHub](https://github.com/vesoft-inc/nebula)]、[[GitCode](https://gitcode.net/mirrors/vesoft-inc/nebula)] | 叶小萌 | Pre-A+轮 | 近千万美元 | 源码资本、红点中国、经纬中国 | 数据库 |
-| 2020 年 11 月 | Zilliz | Milvus [[GitHub](https://github.com/milvus-io/milvus)]、[[GitCode](https://gitcode.net/mirrors/milvus-io/milvus)] | 谢超 | B 轮 | 4300 万美元 | 高瓴创投、挚信资本、Pavilion Capital、五源资本、云启资本 | 人工智能、数据库 |
+| 2020 年 11 月 | Zilliz | Milvus [[GitHub](https://github.com/milvus-io/milvus)]、[[GitCode](https://gitcode.net/mirrors/milvus-io/milvus)] | 谢超（星爵） | B 轮 | 4300 万美元 | 高瓴创投、挚信资本、Pavilion Capital、五源资本、云启资本 | 人工智能、数据库 |
 | 2020 年 11 月 | 端点Terminus | Erda [[GitHub](https://github.com/erda-project/erda)]、[[GitCode](https://gitcode.net/mirrors/erda-project/erda)] | 赵沣伟 | Pre-A+ 轮 | 未披露 | 耀途资本 | 云原生 |
 | 2020 年 9 月 | Jina AI | Jina | 肖涵 | Pre-A轮 | 600 万美元 | GGV 纪源资本、SAP、iO Fund、云启资本 | 人工智能 |
 | 2020 年 8 月 | StreamNative | Apache Pulsar | 郭斯杰 | Pre-A 轮 | 数百万美元 | 源码资本、红杉中国 | 云原生、中间件 |
@@ -63,6 +65,7 @@
 
 | 时间 | 组织（公司/基金会/个人） | 创始人/核心负责人 | 最新融资轮次 | 融资金额 | 最新投资方 | 开源贡献 | 所属领域 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 2022 年 9 月 |  极狐（GitLab） | 陈冉 | A3 轮 | 数千万元 | 天堂硅谷 | 引入 GitLab，做中国本土化运营的一体化 DevOps 平台 | DevOps |
 | 2022 年 4 月 | 飞轮科技 | 连林江 | 天使轮 | 超 3 亿人民币 | IDG 资本、红杉中国 | 参与贡献 Apache Doris，并基于 Doris 内核研发云原生发行版 SelectDB | 云原生、数据仓库 |
 | 2022 年 4 月 | 极狐（GitLab） | 陈冉 | A 轮 | 数亿元人民币 | 淡马锡、Alpha Prime、纪源资本、上海人工智能产业基金、诺基亚成长基金、泰康人寿、干杯基金、联想创投 | 引入 GitLab，做中国本土化运营的一体化 DevOps 平台 | DevOps |
 | 2021 年 9 月 | XSKY星辰天合 | 胥昕 | E 轮 | 7.1亿元人民币 | 博裕投资领投，君联资本、中金甲子、博华资本、昆仑资本、恒生电子、苏州毅商等跟投，原股东北极光、启明创投等亦参与跟投 | 以 Ceph 项目为基础，打造下一代企业级存储 | 分布式存储 |
